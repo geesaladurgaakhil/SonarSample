@@ -177,12 +177,12 @@
 								<artifactItem>
 									<groupId>org.springframework</groupId>
 									<artifactId>spring-webmvc</artifactId>
-									<version>4.3.3.RELEASE</version>
+									<version>4.3.30.RELEASE</version>
 								</artifactItem>
 								<artifactItem>
 									<groupId>org.springframework</groupId>
 									<artifactId>spring-webmvc</artifactId>
-									<version>4.3.3.RELEASE</version>
+									<version>4.3.30.RELEASE</version>
 								</artifactItem>
 								<artifactItem>
 									<groupId>org.springframework</groupId>
